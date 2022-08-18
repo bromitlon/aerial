@@ -1,14 +1,12 @@
-Aerial by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Aerial by BromitLon
+bromitlon.github.io | @bromitlon
+Free for personal and commercial use under the WTFPL license (bromitlon.github.io/license)
 
 
 This is Aerial, a single page, single screen responsive site template. Real simple.
 Makes heavy use of CSS animation (something I've been messing with a lot lately).
 Should work well as a landing page that just directs folks to your stuff elsewhere
-on the www. Sass sources are also included, so if you've never used Sass and you're
-interested in giving it a try, head on over to sass-lang.com (and if not, you can
-safely delete the "sass/" folder).
+on the www. 
 
 The scrolling mountainous background was derived from "Icefields" by Ryan Schroeder,
 a talented photographer from Vancouver who graciously released it on Unsplash under
@@ -17,8 +15,8 @@ as well as all the other kickass CC0-licensed images at Unsplash (unsplash.com).
 
 Questions/comments/issues = just email or find me on Twitter. Have fun!
 
-AJ
-aj@lkn.io | @ajlkn
+BL
+hi@bromit.slmail.me | @bromitlon
 
 
 The Scrolling Background:
@@ -44,11 +42,7 @@ The Scrolling Background:
 		and use it to set the page background color, URL, and placement of
 		your image. It should be as close to 1500px wide as you can get it.
 
-	Sass:
-
-		Set the value of $bg to the page background color, URL, and placement
-		of your image. Change $bg-width if your image is something other than
-		1500px wide.
+	
 
 
 Credits:
